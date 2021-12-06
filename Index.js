@@ -16,7 +16,7 @@ let myCollection = [
     }
 ]
 console.log(myCollection);
-
+ 
 //2c. Create a function called describeItem, which should take in an item as a parameter (the argument handed to this function would be an item from our collection). The function should console.log a message according to how many of the item you have.
 // If there's only one of the item in your collection, it should log "I have a name. Here's what I like about it: whatILike". If you have more than one of it, the message should log "I have count names. Here's what I like about them: whatILike".
 
